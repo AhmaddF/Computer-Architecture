@@ -39,7 +39,7 @@
    - [Semiconductor Main Memory](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/0%20-%20Semiconductor%20Main%20Memory.pdf)
    - [Flash Memory](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/1%20-%20Flash%20Memory.pdf)
    - [Newer Nonvolatile Solid-State Memory Technologies](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/2%20-%20Newer%20Nonvolatile%20Solid-State%20Memory%20Technologies.pdf)
-   -[MEMORY ARRAYS](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/4%20-%20MEMORY%20ARRAYS.pdf)
+   - [MEMORY ARRAYS](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/4%20-%20MEMORY%20ARRAYS.pdf)
    
 5. External Memory
    
