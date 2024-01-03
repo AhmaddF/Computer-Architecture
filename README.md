@@ -60,6 +60,7 @@
 11. Instruction Sets Addressing Modes and Formats
     
    - [Addressing Modes](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/7%20-%20Instruction%20Sets%20Addressing%20Modes%20and%20Formats/0%20-%20Addressing%20Modes.pdf)
+   - [Instruction Format](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/7%20-%20Instruction%20Sets%20Addressing%20Modes%20and%20Formats/1%20-%20%20Instruction%20Format.pdf)
 
 
 
