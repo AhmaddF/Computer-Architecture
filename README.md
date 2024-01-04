@@ -28,41 +28,42 @@
    - [Bus Interconnection](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/4%20-%20Bus%20Interconnection.pdf)
    - [Point-to-Point Interconnect](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/5%20-%20Point-to-Point%20Interconnect.pdf)
      
-3. Cache Memory
+2. Cache Memory
    
    - [Overview](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/2%20-%20Cache%20Memory/0%20-%20Overview.pdf)
    - [Cache Memory Principles](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/2%20-%20Cache%20Memory/1%20-%20Cache%20Memory%20Principles.pdf)
    - [Elements of Cache Design](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/2%20-%20Cache%20Memory/2%20-%20Elements%20of%20Cache%20Design.pdf)
      
-4. Internal Memory
+3. Internal Memory
    
    - [Semiconductor Main Memory](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/0%20-%20Semiconductor%20Main%20Memory.pdf)
    - [Flash Memory](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/1%20-%20Flash%20Memory.pdf)
    - [Newer Nonvolatile Solid-State Memory Technologies](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/2%20-%20Newer%20Nonvolatile%20Solid-State%20Memory%20Technologies.pdf)
    - [MEMORY ARRAYS](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/3%20-%20Internal%20Memory/4%20-%20MEMORY%20ARRAYS.pdf)
    
-5. External Memory
+4. External Memory
    
    - Soon
      
-7. InputOutput
+5. InputOutput
    
    - [Overview](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/InputOutput/0%20-%20Overview%20.pdf)
    - [External Devices](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/InputOutput/1%20-%20External%20Devices.pdf)
    - [I/O Modules](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/InputOutput/2%20-%20I-O%20Modules.pdf)
    - [Programmed I/O](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/InputOutput/3%20-%20Programmed%20I-O.pdf)
-9. Instruction Sets Characteristics and Functions
+6. Instruction Sets Characteristics and Functions
     
    - [Machine Instruction Characteristics](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/6%20-%20Instruction%20Sets%20Characteristics%20and%20Functions/0%20-%20Machine%20Instruction%20Characteristics.pdf)
    - [Types of Operands](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/6%20-%20Instruction%20Sets%20Characteristics%20and%20Functions/1%20-%20Types%20of%20Operands.pdf)
    - [INTEL x86 DATA TYPES](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/6%20-%20Instruction%20Sets%20Characteristics%20and%20Functions/2%20-%20INTEL%20x86%20DATA%20TYPES.pdf)
    - [Types of Operations](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/6%20-%20Instruction%20Sets%20Characteristics%20and%20Functions/3%20-%20Types%20of%20Operations.pdf)
      
-11. Instruction Sets Addressing Modes and Formats
+7. Instruction Sets Addressing Modes and Formats
     
    - [Addressing Modes](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/7%20-%20Instruction%20Sets%20Addressing%20Modes%20and%20Formats/0%20-%20Addressing%20Modes.pdf)
    - [Instruction Format](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/7%20-%20Instruction%20Sets%20Addressing%20Modes%20and%20Formats/1%20-%20%20Instruction%20Format.pdf)
-12. Processor Structure & Function
+8. Processor Structure & Function
+   
    - [Processor Organization](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/1%20-%20Processor%20Organization.pdf)
    - [Register Organization](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/2%20-%20Register%20Organization.pdf)
 
