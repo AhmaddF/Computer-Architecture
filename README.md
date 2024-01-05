@@ -66,6 +66,7 @@
    
    - [Processor Organization](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/1%20-%20Processor%20Organization.pdf)
    - [Register Organization](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/2%20-%20Register%20Organization.pdf)
+   - [Instruction Cycle](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/3%20-%20Instruction%20Cycle.pdf)
 
 
 
