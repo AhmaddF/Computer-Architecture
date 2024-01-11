@@ -68,8 +68,10 @@
    - [Register Organization](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/2%20-%20Register%20Organization.pdf)
    - [Instruction Cycle](https://github.com/AhmaddF/Computer-Architecture/blob/main/Computer%20Architecture%20%26%20Organization/8%20-%20Processor%20Structure%20%26%20Function/3%20-%20Instruction%20Cycle.pdf)
 
-
-
+# المنهج لغة اسمبلي
+0. Assembly Essentials
+   - [Understanding](https://github.com/AhmaddF/Computer-Architecture/blob/main/Assembly%20Essentials/1%20-%20Understanding.pdf)
+   - [Machine](https://github.com/AhmaddF/Computer-Architecture/blob/main/Assembly%20Essentials/2%20-%20Machine.pdf)
 > [!NOTE]
 > قبل البدء يجب على الاقل ان يكون لديك معرفة في الرياضيات 101 والكهرباء.
 
